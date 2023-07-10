@@ -1,4 +1,4 @@
-\# Github User Card
+# Github User Card
 
 This project allows you to search for Github users and view their information.
 the project is build using the following
@@ -8,11 +8,11 @@ the project is build using the following
 - ([tailwind css](https://tailwindcss.com/)).
 - and vitest, playwright for testing.
 
-\## Prerequisites
+## Prerequisites
 
 - Node.js version 18 or higher \<!-- Specify the required Node.js version -->
 
-\## Installation
+## Installation
 
 Clone the repository and install the dependencies:
 
@@ -32,7 +32,7 @@ npm run dev
 
 The application will be available at `http://localhost:5000`.
 
-\## File Structure
+## File Structure
 
 The main changes to the application are in the following files:
 
